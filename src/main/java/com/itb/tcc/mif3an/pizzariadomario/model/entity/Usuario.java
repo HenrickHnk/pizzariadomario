@@ -14,5 +14,4 @@ public class Usuario {
     private String cidade;
     private boolean codStatus;
     private String uf;
-
 }
